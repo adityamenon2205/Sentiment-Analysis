@@ -19,6 +19,3 @@ The output enables quick understanding of overall market mood and opinion trends
 - Exports WordClouds as PNG images
 
 ---
-
-## 📁 Project Structure
-
